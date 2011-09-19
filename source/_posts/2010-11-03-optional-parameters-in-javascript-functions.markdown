@@ -4,20 +4,20 @@ title: Optional Parameters in JavaScript Functions
 layout: post
 wordpress_url: http://solutions.treypiepmeier.com/2010/11/optional-parameters-in-javascript-functions/
 ---
-Set it up:
 
-	adjustDisplay: function(smooth){
-		if (smooth === undefined) { smooth = false };
-		...
-		if (smooth) {
-			$('#content').animate({height: '500px'}, 200);
-		} else {
-			$('#content').css('height', '500px');
-		};
-	},
-	...
+``` javascript Set it up
+adjustDisplay: function(smooth){
+    if (smooth === undefined) { smooth = false };
+    ...
+    if (smooth) {
+        $('#content').animate({height: '500px'}, 200);
+    } else {
+        $('#content').css('height', '500px');
+    };
+},
+...
+```
 
-
-Call it:
-
-	app.adjustDisplay('smooth');
+``` javascript Call it
+app.adjustDisplay('smooth');
+```
