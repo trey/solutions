@@ -1,8 +1,8 @@
 ---
 date: 2011-04-28 19:45:15
 title: Using External Files as jQuery Templates
+categories: [JavaScript, jQuery]
 layout: post
-category: JavaScript
 wordpress_url: http://solutions.treypiepmeier.com/2011/04/using-external-files-as-jquery-templates/
 ---
 [Previously&hellip;](/2010/10/25/jquery-templates/)

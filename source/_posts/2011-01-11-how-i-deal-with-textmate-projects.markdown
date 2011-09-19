@@ -3,6 +3,7 @@ date: 2011-01-11 22:09:34
 title: How I deal with TextMate projects
 layout: post
 wordpress_url: http://solutions.treypiepmeier.com/2011/01/how-i-deal-with-textmate-projects/
+category: TextMate
 ---
 - Create a folder in `~/Documents` called `TextMate Projects`
 - Save your TextMate Project files there (not the projects themselves)
