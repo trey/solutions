@@ -1,0 +1,7 @@
+---
+date: 2006-10-09 23:19:29
+title: OLs in IE
+layout: post
+wordpress_url: http://solutions.treypiepmeier.com/2006/10/ols-in-ie/
+---
+If you set an OL LI to have `height: 1%` (to trigger has-layout) in IE, the number won't increment.  Freaky.

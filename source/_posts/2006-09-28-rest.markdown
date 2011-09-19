@@ -1,0 +1,7 @@
+---
+date: 2006-09-28 17:29:44
+title: REST
+layout: post
+wordpress_url: http://solutions.treypiepmeier.com/2006/09/rest/
+---
+I keep hearing about REST and RESTful stuff in Rails, but I don't really understand.  Is it about serving different types of content (HTML, RSS, XML) depending on the device that's requesting the data?
