@@ -36,13 +36,13 @@ COMPILER_FORMATS = {
 Add to a template that you want to load a Sass file:
 	
 ``` django
-{% load compress %}
+{ % load compress % }
 
 ...
 
-{% compress css %}
+{ % compress css % }
 <link rel="stylesheet" href="{{ MEDIA_URL }}css/base.scss" media="screen">
-{% endcompress %}
+{ % endcompress % }
 ```
 
 Dealssss with [caching](http://docs.djangoproject.com/en/dev/topics/cache/) when you deploy.

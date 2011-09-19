@@ -6,7 +6,7 @@ wordpress_url: http://solutions.treypiepmeier.com/2006/09/getting-markdown-to-wo
 ---
 In your view template put:
 
-	{% load markup %}
+	{ % load markup % }
 
 In your settings.py in the INSTALLED_APPS section, put:
 

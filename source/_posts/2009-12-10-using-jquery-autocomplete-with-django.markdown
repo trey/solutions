@@ -51,7 +51,7 @@ And to finish it off, a bit of JavaScript in your template to call the plugin:
 ```javascript
     <script>
         $(function() {
-            $('#id_title').autocomplete('{% url title_lookup %}', {
+            $('#id_title').autocomplete('{ % url title_lookup % }', {
                 dataType: 'json',
                 width: 500,
                 parse: function(data) {
