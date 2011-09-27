@@ -7,7 +7,6 @@ require "stringex"
 ssh_user       = "trey@trey.webfactional.com"
 ssh_port       = "22"
 document_root  = "~/webapps/solutions_static/"
-document_root  = "~/website.com/"
 deploy_default = "rsync"
 
 # This will be configured for you when you run config_deploy
