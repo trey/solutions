@@ -76,7 +76,6 @@ delicious_count: 3
 
 # Disqus Comments
 disqus_short_name: trey-solutions
-disqus_short_name:
 disqus_show_comment_count: false
 
 # Google Analytics
