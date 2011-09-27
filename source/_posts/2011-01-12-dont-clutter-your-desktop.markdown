@@ -1,6 +1,7 @@
 ---
 date: 2011-01-12 20:07:00
 title: Don't clutter your Desktop
+category: Apple
 layout: post
 wordpress_url: http://solutions.treypiepmeier.com/2011/01/dont-clutter-your-desktop/
 ---

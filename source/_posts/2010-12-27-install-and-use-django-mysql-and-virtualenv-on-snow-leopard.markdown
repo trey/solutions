@@ -1,9 +1,9 @@
 ---
 date: 2010-12-27 18:30:51
 title: Install and Use Django, MySQL, and VirtualEnv on Snow Leopard
+categories: [Django, Apple, Database]
 layout: post
 wordpress_url: http://solutions.treypiepmeier.com/2010/12/install-and-use-django-mysql-and-virtualenv-on-snow-leopard/
-category: Django
 ---
 ### Django
 

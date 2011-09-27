@@ -1,6 +1,7 @@
 ---
 date: 2010-08-22 19:00:38
 title: Using Sass with Django
+categories: [Sass, Django]
 layout: post
 wordpress_url: http://solutions.treypiepmeier.com/2010/08/using-sass-with-django/
 ---

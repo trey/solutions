@@ -1,6 +1,7 @@
 ---
 date: 2010-10-25 16:22:56
 title: jQuery Templates
+categories: [JavaScript, jQuery]
 layout: post
 wordpress_url: http://solutions.treypiepmeier.com/2010/10/jquery-templates/
 ---

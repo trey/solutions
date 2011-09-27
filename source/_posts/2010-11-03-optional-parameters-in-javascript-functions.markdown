@@ -1,6 +1,7 @@
 ---
 date: 2010-11-03 16:49:08
 title: Optional Parameters in JavaScript Functions
+category: JavaScript
 layout: post
 wordpress_url: http://solutions.treypiepmeier.com/2010/11/optional-parameters-in-javascript-functions/
 ---
