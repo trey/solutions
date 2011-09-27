@@ -1,0 +1,11 @@
+Options +FollowSymLinks
+RewriteEngine On
+RewriteBase /
+
+# Always add trailing slash
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_URI} !(.*)/$
+RewriteRule ^(.*)$ http://solutions.trey.cc/$1/ [R=301]
+
+# WordPress Feed URL -> FeedBurner
+Redirect 301 /feed/ http://feeds.feedburner.com/SolutionsLog
