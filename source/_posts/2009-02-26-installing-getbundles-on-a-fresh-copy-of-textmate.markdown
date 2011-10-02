@@ -4,10 +4,13 @@ title: Installing GetBundles on a Fresh Copy of TextMate
 layout: post
 wordpress_url: http://solutions.treypiepmeier.com/2009/02/installing-getbundles-on-a-fresh-copy-of-textmate/
 ---
-    mkdir -p ~/Library/Application\ Support/TextMate/Bundles
-    cd !$
-    svn co http://svn.textmate.org/trunk/Review/Bundles/GetBundles.tmbundle/
-    osascript -e 'tell app "TextMate" to reload bundles'
+
+```
+mkdir -p ~/Library/Application\ Support/TextMate/Bundles
+cd !$
+svn co http://svn.textmate.org/trunk/Review/Bundles/GetBundles.tmbundle/
+osascript -e 'tell app "TextMate" to reload bundles'
+```
 
 ### Sources
 
