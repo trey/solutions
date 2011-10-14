@@ -8,4 +8,4 @@ RewriteCond %{REQUEST_URI} !(.*)/$
 RewriteRule ^(.*)$ http://solutions.trey.cc/$1/ [R=301]
 
 Redirect 301 /feed/ http://feeds.feedburner.com/SolutionsLog
-Redirect 301 /2009/02/25/installing-getbundles-on-a-fresh-copy-of-textmate/ http://solutions.trey.cc/2009/02/26/installing-getbundles-on-a-fresh-copy-of-textmate/
+Redirect 301 /2009/02/26/installing-getbundles-on-a-fresh-copy-of-textmate/ http://solutions.trey.cc/2009/02/25/installing-getbundles-on-a-fresh-copy-of-textmate/
