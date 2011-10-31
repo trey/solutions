@@ -1,5 +1,5 @@
 ---
-date: 2009-02-26 01:34:50
+date: 2009-02-25 00:00:00
 title: Installing GetBundles on a Fresh Copy of TextMate
 layout: post
 wordpress_url: http://solutions.treypiepmeier.com/2009/02/installing-getbundles-on-a-fresh-copy-of-textmate/
